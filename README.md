@@ -42,8 +42,7 @@ Atualmente, planejo iniciar **Engenharia de Software** e estou montando projetos
 
 ## 📫 Como me encontrar
 
-* Email: *adicione aqui*
-* LinkedIn: *adicione aqui*
+* Email: guilherme.lopes.mielke@gmail.com
 
 ---
 
