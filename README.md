@@ -39,13 +39,6 @@ Atualmente, planejo iniciar **Engenharia de Software** e estou montando projetos
 
 ---
 
-## 📂 Projetos em Destaque
-
-* **To-Do App** – Treinando DOM e armazenamento local
-* **Jogo Pedra-Papel-Tesoura** – Lógica e eventos no navegador
-* **Página responsiva** – HTML/CSS focado em layout moderno
-
----
 
 ## 📫 Como me encontrar
 
