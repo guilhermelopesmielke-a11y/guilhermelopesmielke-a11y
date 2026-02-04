@@ -1,53 +1,94 @@
-# Olá! Eu sou Guilherme 👋
+# 👋 Olá, eu sou o Guilherme Lopes Mielke
 
-## Desenvolvedor em formação
-
-Sou um desenvolvedor iniciante com boa base em **HTML**, **CSS** e **JavaScript**, focado em criar código claro, eficiente e com boas práticas.
-Atualmente, planejo iniciar **Engenharia de Software** e estou montando projetos que consolidam meus aprendizados e demonstram minha capacidade de resolver problemas reais.
-
----
-
-## 💡 O que estou aprendendo agora
-
-* JavaScript avançado (ES6+, padrões de projeto iniciais)
-* Integração com APIs e manipulação avançada de DOM
-* Git e GitHub em fluxos profissionais
-* Princípios de arquitetura front-end e estruturas de dados básicas
+💻 Desenvolvedor Full Stack JavaScript  
+🚀 Focado em React, Node.js e aplicações web completas  
+📚 Sempre estudando boas práticas, arquitetura e performance  
 
 ---
 
-## 🧩 Tecnologias
+## 🧠 Sobre mim
 
-**Front-end:**
+Sou desenvolvedor com foco na construção de aplicações completas, desde o backend até a interface do usuário.
 
-* HTML5
-* CSS3
-* JavaScript
+Tenho experiência prática desenvolvendo sistemas CRUD completos utilizando:
 
-**Ferramentas:**
+- API REST
+- Banco de dados NoSQL
+- Integração frontend + backend
+- Organização de código escalável
 
-* Git & GitHub
-* VS Code
-
----
-
-## 📌 Objetivos atuais
-
-* Construir um portfólio profissional com projetos completos
-* Evoluir para desenvolvimento **Front-end** ou **Full Stack**
-* Contribuir em projetos open-source assim que estiver pronto
+Busco minha primeira oportunidade profissional para aplicar e expandir meus conhecimentos.
 
 ---
 
+## ⚙️ Tecnologias
 
-## 📫 Como me encontrar
+### Frontend
+- React.js
+- JavaScript
+- Nodejs
+- HTML
+- CSS
 
-* Email: guilherme.lopes.mielke@gmail.com
+### Backend
+- Node.js
+- Express
+- Prisma ORM
+
+### Banco de Dados
+- MongoDB
+- PostgresSQl
+
+### Ferramentas
+- Git
+- GitHub
+- Vite
+- Postman
 
 ---
 
-## 🚀 Sobre meu compromisso
+## 📂 Projetos em Destaque
 
-Estou construindo minha carreira com disciplina, curiosidade e vontade real de dominar os fundamentos. Busco oportunidades para aprender, contribuir e crescer em ambientes que valorizem qualidade, impacto e evolução contínua.
+### 🧾 Sistema de Cadastro de Usuários
+Aplicação Full Stack com CRUD completo.
 
-Sinta-se à vontade para explorar meus repositórios!
+🔹 Frontend em React  
+🔹 Backend com Node + Express  
+🔹 Banco MongoDB com Prisma  
+🔹 Integração completa via API REST  
+
+👉 [Link do Repositório](COLOQUE_AQUI)
+
+---
+
+### 📊 Projeto Cardápio online
+Sistema com interface organizada e manipulação de dados.
+
+👉 [Link do Repositório](COLOQUE_AQUI)
+
+---
+
+### 📊 Projeto Conversor de Moedas
+///
+👉 [Link do Repositório](COLOQUE_AQUI)
+
+---
+
+## 📈 Atualmente estudando
+
+- Arquitetura de Software
+- Clean Code
+- Boas práticas em React
+- TypeScript
+- Testes automatizados
+
+---
+
+## 📫 Contato
+
+📧 Email: guilherme.lopes.mielke@gmail.com
+💼 LinkedIn: https://www.linkedin.com/in/guilherme-mielke/  
+
+---
+
+⭐ Sempre aberto a aprender, colaborar e evoluir como desenvolvedor.
